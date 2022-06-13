@@ -1,0 +1,3 @@
+/Users/linjw/workspace/JniDemo/app/.cxx/Debug/3h1c2m71/x86/CMakeFiles/rebuild_cache.dir
+/Users/linjw/workspace/JniDemo/app/.cxx/Debug/3h1c2m71/x86/CMakeFiles/edit_cache.dir
+/Users/linjw/workspace/JniDemo/app/.cxx/Debug/3h1c2m71/x86/CMakeFiles/jni.dir

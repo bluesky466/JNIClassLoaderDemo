@@ -1,0 +1,7 @@
+# ninja log v5
+0	450	1654606268	CMakeFiles/jni.dir/native-lib.cpp.o	d5abe0d7503396be
+453	575	1654606268	/Users/linjw/workspace/JniDemo/app/build/intermediates/cmake/debug/obj/x86/libjni.so	95b839409b1dd63b
+0	265	1654607167	CMakeFiles/jni.dir/native-lib.cpp.o	d5abe0d7503396be
+265	346	1654607167	/Users/linjw/workspace/JniDemo/app/build/intermediates/cmake/debug/obj/x86/libjni.so	95b839409b1dd63b
+1	274	1654661841	CMakeFiles/jni.dir/native-lib.cpp.o	d5abe0d7503396be
+274	365	1654661841	/Users/linjw/workspace/JniDemo/app/build/intermediates/cmake/debug/obj/x86/libjni.so	95b839409b1dd63b

@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/Users/linjw/workspace/JniDemo/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/linjw/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/Users/linjw/workspace/JniDemo/app/.cxx/cmake/debug/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/linjw/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/Users/linjw/workspace/JniDemo/app/.cxx/cmake/debug/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "jni::@6890427a1f51a3e7e1df": {
+      "artifactName": "jni",
+      "abi": "x86",
+      "output": "/Users/linjw/workspace/JniDemo/app/build/intermediates/cmake/debug/obj/x86/libjni.so",
+      "runtimeFiles": []
+    }
+  }
+}

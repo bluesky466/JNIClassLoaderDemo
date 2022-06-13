@@ -1,0 +1,10 @@
+ninja: Entering directory `/Users/linjw/workspace/JniDemo/app/.cxx/cmake/debug/arm64-v8a'
+[1/2] Building CXX object CMakeFiles/jni.dir/native-lib.cpp.o
+/Users/linjw/workspace/JniDemo/app/src/main/cpp/native-lib.cpp:14:33: warning: format specifies type 'long' but the argument has type 'jclass' (aka '_jclass *') [-Wformat]
+    LOGD("%s : %ld", className, clazz);
+               ~~~              ^~~~~
+/Users/linjw/workspace/JniDemo/app/src/main/cpp/native-lib.cpp:7:79: note: expanded from macro 'LOGD'
+#define LOGD(fmt, args...) __android_log_print(ANDROID_LOG_DEBUG, TAG, fmt, ##args)
+                                                                       ~~~    ^~~~
+1 warning generated.
+[2/2] Linking CXX shared library /Users/linjw/workspace/JniDemo/app/build/intermediates/cmake/debug/obj/arm64-v8a/libjni.so
